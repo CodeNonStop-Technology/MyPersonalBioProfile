@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Virendra kumar</h1>
 <h3 align="center">I am Software Engineer , Founder of Codenonstop</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codenonstop-technology&label=Profile%20views&color=0e75b6&style=flat" alt="codenonstop-technology" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codenonstop-technology" alt="codenonstop-technology" /></a> </p>
+
 - 🔭 I’m currently working on [Learning Management System](https://codenonstop.com)
 
 - 🌱 I’m currently learning **Spring boot , React.js , Express.js**
